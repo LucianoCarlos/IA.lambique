@@ -32,11 +32,11 @@ Com o ambiente configurado, entre na pasta "/app" e execute o arquivo "server.py
 <pre>(env)$ python server.py</pre>
 
 ## Screenshots
-<div>
-<img align="left" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot01.png" alt="Gráfico aprendizado de máquina aplicado à produção de cachaça">
 
-<img align="center" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot02.png" alt="Gráfico aprendizado de máquina aplicado à produção de cachaça">
-</div>
+<img align="left" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot02.png" alt="Software em execução"/>
 
-<img align="left" width="50%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot03.png" alt="Gráfico aprendizado de máquina aplicado à produção de cachaça">
+<img align="center" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot03.png" alt="Software em execução"/>
+
+
+
 
