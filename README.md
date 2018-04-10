@@ -31,3 +31,12 @@ Com o ambiente virtual ativado, instale as dependências, listadas no arquivo "r
 Com o ambiente configurado, entre na pasta "/app" e execute o arquivo "server.py". Após, abra o navegador e vá para o endereço: http://127.0.0.1:5000:
 <pre>(env)$ python server.py</pre>
 
+## Screenshots
+<div>
+<img align="left" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot01.png" alt="Gráfico aprendizado de máquina aplicado à produção de cachaça">
+
+<img align="center" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot02.png" alt="Gráfico aprendizado de máquina aplicado à produção de cachaça">
+</div>
+
+<img align="left" width="50%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot03.png" alt="Gráfico aprendizado de máquina aplicado à produção de cachaça">
+
