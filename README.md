@@ -31,6 +31,8 @@ Com o ambiente virtual ativado, instale as dependências, listadas no arquivo "r
 Com o ambiente configurado, entre na pasta "/app" e execute o arquivo "server.py". Após, abra o navegador e vá para o endereço: http://127.0.0.1:5000:
 <pre>(env)$ python server.py</pre>
 
+Prototipo em funcionamento: https://ialambique.herokuapp.com/
+
 ## Screenshots
 
 <img align="left" width="48%" src="https://github.com/lucianocarlos/IA.lambique/blob/master/screenshots/screenshot02.png" alt="Software em execução"/>
